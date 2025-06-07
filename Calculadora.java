@@ -6,6 +6,7 @@ public class Calculadora{
 	}
 	public int restar(int a,int b){
 		resultado=a-b;
+		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAA");
 		return resultado;
 	}
 }
